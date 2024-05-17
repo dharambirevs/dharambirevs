@@ -95,8 +95,7 @@
   ## 📫 &nbsp;My Contacts
  
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Ruchir_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchir-gupta-93b010186/)](https://www.linkedin.com/in/ruchir-gupta-93b010186/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-ruchir.gupta@evssolution.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruchir.gupta@evssolution.com)&nbsp;
+
  
 </div>
  
